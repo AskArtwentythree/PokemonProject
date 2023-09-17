@@ -5,7 +5,7 @@ const nextConfig = {
     CMS_LINK: process.env.CMS_LINK,
   },
   images: {
-    domains: ['localhost', 'cmspokemon.onrender.com'],
+    domains: ['localhost', 'pokemonfind-2own.onrender.com'],
     remotePatterns: [
       {
         protocol: 'https',
@@ -21,7 +21,7 @@ const nextConfig = {
       },
       {
         protocol: 'https',
-        hostname: 'cmspokemon.onrender.com',
+        hostname: 'pokemonfind-2own.onrender.com',
         port: '',
         pathname: '/**',
       },
