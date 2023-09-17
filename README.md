@@ -1,5 +1,6 @@
 ## READ ME FIRST
- - Before going to the deployed vercel website, you need to visit https://cmspokemon.onrender.com and wait for some time to start it!
+ - Before going to the deployed vercel website, you need to visit https://pokemonfind-2own.onrender.com and wait for some time to start backend project!
+ - After you can visit the main website https://pokemon-project-frontend.vercel.app
  
 ## TODO
 
